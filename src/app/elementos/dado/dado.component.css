@@ -1,0 +1,55 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+.dado{
+    background-color: black;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+   
+}
+p{
+    color:white;
+    font-size: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+section{ 
+    padding: 30px;
+    margin-top: 20px;
+    align-content: center;
+    text-align: center; 
+    width: 10%; 
+    height: 10%;
+    margin-left: 40%;
+    border-style: double;  
+    background-color: black;
+    border-radius: 20%;
+}
+p{
+    color: white;
+    font-size: 50px;
+}
+*/
